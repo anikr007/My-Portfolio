@@ -49,4 +49,10 @@ nav a{
 
 .banner{
     padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.pro-pic{
+    width: 584px;
+    height: 676px;
 }
